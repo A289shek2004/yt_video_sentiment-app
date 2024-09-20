@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="350" src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanpalkar2000&label=Profile%20views&color=0e75b6&style=flat" alt="rohanpalkar2000" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanpalkar2000&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek" /> </p>
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
