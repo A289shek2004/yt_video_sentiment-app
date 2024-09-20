@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ROHAN PALKAR</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h1 align="center">Hello 👋, I'm ABHISHEK KUMAR GUPTA</h1>
+<h3 align="center">A Passionate Data Science Aspirant</h3>
 
 <img align="right" alt="coding" width="350" src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png">
 
