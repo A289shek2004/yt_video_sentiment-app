@@ -3,8 +3,7 @@
 
 <img align="right" alt="coding" width="350" src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanpalkar2000&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek" /> </p>
-
+<p align="left"> <img 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/A289shek2004](https://github.com/A289shek2004)
