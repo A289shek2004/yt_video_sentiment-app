@@ -30,7 +30,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Gudiya-yadav-464" target="_blank">
+<a href="https://github.com/A289shek2004" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/Nikita Yadav" target="_blank">
@@ -46,7 +46,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Gudiya-yadav-464&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=A289shek2004&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -54,7 +54,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://github.com/A289shek2004/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
@@ -66,4 +66,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
