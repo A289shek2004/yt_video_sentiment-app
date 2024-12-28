@@ -25,7 +25,7 @@ Data Analytics
 
 ### Data Science 
 
-</td></tr></table> 
+
 </td><td valign="top" width="40%">
 
 ### Machine Learning
