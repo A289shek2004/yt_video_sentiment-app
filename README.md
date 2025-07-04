@@ -50,6 +50,7 @@ yt_video_sentiment-app/
 
 ### 1️⃣ Clone the Repository
 git clone https://github.com/A289shek2004/yt_video_sentiment-app.git
+
 cd yt_video_sentiment-app
 
 2️⃣ Install Dependencies
