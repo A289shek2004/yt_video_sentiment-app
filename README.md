@@ -15,6 +15,7 @@ This project analyzes YouTube video comments and classifies them into **Positive
 - Naive Bayes
 - SVM
 - Random Forest
+  
 ✅ Save best model and TF-IDF vectorizer  
 ✅ Deploy using **Streamlit** for real-time prediction
 
@@ -37,40 +38,51 @@ This project analyzes YouTube video comments and classifies them into **Positive
 
 ## 📁 Folder Structure
 
-yt_video_sentiment-app/
-├── app.py # Streamlit Web App
-├── tfidf_vectorizer.pkl # Saved TF-IDF vectorizer
-├── SVM_Linear_SVC_model.pkl # Best-performing ML model
-├── requirements.txt # Python dependencies
-└── README.md # Project overview (this file)
+`yt_video_sentiment-app/`
+
+`├── app.py # Streamlit Web App`
+
+`├── tfidf_vectorizer.pkl # Saved TF-IDF vectorizer`
+
+`├── SVM_Linear_SVC_model.pkl # Best-performing ML model`
+
+`├── requirements.txt # Python dependencies`
+
+`└── README.md # Project overview (this file)`
 
 ---
 
 ## ⚙️ Installation & Usage (Local)
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/A289shek2004/yt_video_sentiment-app.git
+`git clone https://github.com/A289shek2004/yt_video_sentiment-app.git`
 
-cd yt_video_sentiment-app
+`cd yt_video_sentiment-app`
 
 2️⃣ Install Dependencies
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 3️⃣ Run the App Locally
-streamlit run app.py
+`streamlit run app.py`
+
 Your app will open at: http://localhost:8501
 
 🌐 Live Demo
+
 🔗 Streamlit App: [Coming soon – add link after deployment]
+
 🔗 Project Walkthrough (YouTube/LinkedIn): 
 
 📈 Example Input/Output
+
 Input Comment:
 This video is so helpful, thank you!
-Predicted Sentiment:
 
+Predicted Sentiment:
 👍 Positive
-💡 Future Improvements
+
+💡 Future Improvements:
+
 Add Neutral class for 3-way sentiment
 
 Add comment filters (by likes, recency)
@@ -81,10 +93,12 @@ Deploy as a full web API (Flask/FastAPI)
 
 🙋‍♂️ Author
 Abhishek Harendra Gupta
+
 📫 LinkedIn
+
 🎓 Data Science Student | Aspiring ML Engineer
 
-📜 License
+📜 License:
 This project is licensed under the MIT License – feel free to use and modify.
 
 ---
